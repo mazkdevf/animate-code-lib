@@ -1,0 +1,15 @@
+{
+  "name": "animatecode",
+  "version": "1.0.0",
+  "description": "This is an simple example of doing code animation with animate-code.com",
+  "main": "index.js",
+  "keywords": [
+    "animate-code",
+    "code-animation"
+  ],
+  "author": "mazkdevf > lib, creator of animate-code.com > joshtriedcoding",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.12.0"
+  }
+}
